@@ -197,7 +197,7 @@ css
 
   .main-content {
     min-height: 350px;
-    /*I  give min-height to the main-content inorder to increase the size of the main-content this will extend the background-color to the bottom which we have given the container class. */
+    /*I  give min-height to the main-content inorder to increase the size of the main-content this will extend the background-color to the bottom which we have given to the container class. */
   }
 }
 ```
