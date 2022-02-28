@@ -73,7 +73,9 @@ css
 }
 ```
 
-then I style the responsive, description , main-btn according to the style given in the figma file .
+then I style the responsive, description , main-btn according to the style given in the figma file 
+but when I add the margin and padding to the main-btn it's margin-top and the padding-top of the element doen't change. it is because the main-btn is a" link" and links are  inline element so 
+margin-top .padding-top,margin-bottom, padding-bottom,width and height doesn't change the look of the element in the page even if you apply the value for it in your css. so I change the display: inline(which is the default value for the inline elements) to display: inline-block; inorder to make margin-top and padding-top properties work  .
 
 ```
 css
