@@ -21,9 +21,9 @@ you can see the design file in the figma by clicking this link:https://www.figma
 ### Screenshot
 
 ![](./screenshot.jpg)
-
 file path for the screenshot of my solution:
 solution image/responsive design layout challenge-3.png
+
 
 ### Links
 
